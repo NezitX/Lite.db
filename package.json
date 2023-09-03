@@ -30,5 +30,8 @@
   "bugs": {
     "url": "https://github.com/NezitX/Lite.db/issues"
   },
-  "homepage": "https://github.com/NezitX/Lite.db#readme"
+  "homepage": "https://github.com/NezitX/Lite.db#readme",
+  "devDependencies": {
+    "@types/node": "^20.5.9"
+  }
 }
